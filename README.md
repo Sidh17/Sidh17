@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sidh17
-- 👀 I’m interested in ...Data Science, Networking, Machine learning
+- 👀 I’m interested in ...Data Science, Networking, Power Bi, Machine learning
 - 🌱 I’m currently learning ... Java (udemy)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
